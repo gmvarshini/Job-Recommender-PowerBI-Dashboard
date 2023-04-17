@@ -1,4 +1,4 @@
-# Data-Science-Jobs-Recommendation-India-Power-BI-Dashboard
+# Job-Recommendation-India-Power-BI-Dashboard
 Power BI
 
 
